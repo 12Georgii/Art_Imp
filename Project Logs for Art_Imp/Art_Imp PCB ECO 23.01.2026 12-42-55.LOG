@@ -1,0 +1,216 @@
+Added Component: Designator=JK1(PCBComponent_1)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chipdip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/trr-1a-05-s-00r-tai-shing-tti-8001786496"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "Реле герконовые TRR-1A-05-S-00R, Tai Shing"; VariantName = "[No Variations]"
+Added Component: Designator=JK2(PCBComponent_1)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chipdip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/trr-1a-05-s-00r-tai-shing-tti-8001786496"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "Реле герконовые TRR-1A-05-S-00R, Tai Shing"; VariantName = "[No Variations]"
+Added Component: Designator=JK3(PCBComponent_1)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chipdip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/trr-1a-05-s-00r-tai-shing-tti-8001786496"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "Реле герконовые TRR-1A-05-S-00R, Tai Shing"; VariantName = "[No Variations]"
+Added Component: Designator=JK4(PCBComponent_1)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chipdip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/trr-1a-05-s-00r-tai-shing-tti-8001786496"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "Реле герконовые TRR-1A-05-S-00R, Tai Shing"; VariantName = "[No Variations]"
+Added Component: Designator=JK5(PCBComponent_1)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chipdip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/trr-1a-05-s-00r-tai-shing-tti-8001786496"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "Реле герконовые TRR-1A-05-S-00R, Tai Shing"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES: SMD 0603 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6069191961"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 10K+-1% TK50 0603"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES: SMD 0603 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6069191961"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 10K+-1% TK50 0603"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES: SMD 0603 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6069191961"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 10K+-1% TK50 0603"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES: SMD 0603 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6069191961"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 10K+-1% TK50 0603"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES: SMD 0603 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6069191961"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 10K+-1% TK50 0603"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES: SMD 0603 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6069191961"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 10K+-1% TK50 0603"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES: SMD 0603 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6069191961"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 10K+-1% TK50 0603"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES: SMD 0603 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6069191961"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 10K+-1% TK50 0603"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES: SMD 0603 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6069191961"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 10K+-1% TK50 0603"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES: SMD 0603 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6069191961"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 10K+-1% TK50 0603"; VariantName = "[No Variations]"
+Added Component: Designator=R11(0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chipdip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/rg1608n-131-w-t1-susumu-8001999350"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "Резистор RG1608N-131-W-T1, Susumu"; VariantName = "[No Variations]"
+Added Component: Designator=R12(0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chipdip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/rg1608n-131-w-t1-susumu-8001999350"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "Резистор RG1608N-680-W-T1, Susumu"; VariantName = "[No Variations]"
+Added Component: Designator=R13(1206)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chipdip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/rg1608n-131-w-t1-susumu-8001999350"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "Резистор CRF1206-FZ-R010ELF, Bourns"; VariantName = "[No Variations]"
+Added Component: Designator=VD1(DIODE: SOD 323 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6349981061"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Супрессор PESD5V0S1BA, 115"; VariantName = "[No Variations]"
+Added Component: Designator=VD2(DIODE: SOD 323 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6349981061"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Супрессор PESD5V0S1BA, 115"; VariantName = "[No Variations]"
+Added Component: Designator=VD3(DIODE: SOD 323 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6349981061"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Супрессор PESD5V0S1BA, 115"; VariantName = "[No Variations]"
+Added Component: Designator=VD4(DIODE: SOD 323 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6349981061"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Супрессор PESD5V0S1BA, 115"; VariantName = "[No Variations]"
+Added Component: Designator=VD5(DIODE: SOD 323 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6349981061"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Супрессор PESD5V0S1BA, 115"; VariantName = "[No Variations]"
+Added Component: Designator=VT1(IC: SOT 23)
+Add component (AddParameter): Name = "Code"; Value = "6340001151"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Транзистор BC850C,215, Nexperia"; VariantName = "[No Variations]"
+Added Component: Designator=VT2(IC: SOT 23)
+Add component (AddParameter): Name = "Code"; Value = "6340001151"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Транзистор BC850C,215, Nexperia"; VariantName = "[No Variations]"
+Added Component: Designator=VT3(IC: SOT 23)
+Add component (AddParameter): Name = "Code"; Value = "6340001151"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Транзистор BC850C,215, Nexperia"; VariantName = "[No Variations]"
+Added Component: Designator=VT4(IC: SOT 23)
+Add component (AddParameter): Name = "Code"; Value = "6340001151"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Транзистор BC850C,215, Nexperia"; VariantName = "[No Variations]"
+Added Component: Designator=VT5(IC: SOT 23)
+Add component (AddParameter): Name = "Code"; Value = "6340001151"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Транзистор BC850C,215, Nexperia"; VariantName = "[No Variations]"
+Added Component: Designator=X1(DJ4.8)
+Added Component: Designator=X2(DJ4.8)
+Added Component: Designator=X3(CON: 8PIN PLS-8)
+Added Component: Designator=X4(DJ4.8)
+Added Component: Designator=X5(DJ4.8)
+Added Pin To Net: NetName=NetJK1_1 Pin=JK1-1
+Added Pin To Net: NetName=+5 Pin=JK1-2
+Added Pin To Net: NetName=NetJK1_6 Pin=JK1-6
+Added Pin To Net: NetName=NetJK1_7 Pin=JK1-7
+Added Pin To Net: NetName=NetJK2_1 Pin=JK2-1
+Added Pin To Net: NetName=+5 Pin=JK2-2
+Added Pin To Net: NetName=NetJK2_6 Pin=JK2-6
+Added Pin To Net: NetName=NetJK1_1 Pin=JK2-7
+Added Pin To Net: NetName=NetJK3_1 Pin=JK3-1
+Added Pin To Net: NetName=+5 Pin=JK3-2
+Added Pin To Net: NetName=NetJK3_6 Pin=JK3-6
+Added Pin To Net: NetName=NetJK1_1 Pin=JK3-8
+Added Pin To Net: NetName=+5 Pin=JK4-2
+Added Pin To Net: NetName=NetJK4_6 Pin=JK4-6
+Added Pin To Net: NetName=NetJK4_8 Pin=JK4-8
+Added Pin To Net: NetName=NetJK4_14 Pin=JK4-14
+Added Pin To Net: NetName=+5 Pin=JK5-2
+Added Pin To Net: NetName=NetJK5_6 Pin=JK5-6
+Added Pin To Net: NetName=NetJK5_8 Pin=JK5-8
+Added Pin To Net: NetName=NetJK2_1 Pin=JK5-14
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=Key3 Pin=R1-2
+Added Pin To Net: NetName=GNDA Pin=R2-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=Key1 Pin=R3-2
+Added Pin To Net: NetName=GNDA Pin=R4-1
+Added Pin To Net: NetName=NetR3_1 Pin=R4-2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=Key2 Pin=R5-2
+Added Pin To Net: NetName=GNDA Pin=R6-1
+Added Pin To Net: NetName=NetR5_1 Pin=R6-2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=Key4 Pin=R7-2
+Added Pin To Net: NetName=GNDA Pin=R8-1
+Added Pin To Net: NetName=NetR7_1 Pin=R8-2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=Key5 Pin=R9-2
+Added Pin To Net: NetName=GNDA Pin=R10-1
+Added Pin To Net: NetName=NetR9_1 Pin=R10-2
+Added Pin To Net: NetName=NetJK1_7 Pin=R11-1
+Added Pin To Net: NetName=NetJK4_14 Pin=R11-2
+Added Pin To Net: NetName=NetJK1_1 Pin=R12-1
+Added Pin To Net: NetName=NetJK4_14 Pin=R12-2
+Added Pin To Net: NetName=NetJK2_1 Pin=R13-1
+Added Pin To Net: NetName=NetJK3_1 Pin=R13-2
+Added Pin To Net: NetName=+5 Pin=VD1-1
+Added Pin To Net: NetName=NetJK1_6 Pin=VD1-2
+Added Pin To Net: NetName=+5 Pin=VD2-1
+Added Pin To Net: NetName=NetJK2_6 Pin=VD2-2
+Added Pin To Net: NetName=+5 Pin=VD3-1
+Added Pin To Net: NetName=NetJK3_6 Pin=VD3-2
+Added Pin To Net: NetName=+5 Pin=VD4-1
+Added Pin To Net: NetName=NetJK4_6 Pin=VD4-2
+Added Pin To Net: NetName=+5 Pin=VD5-1
+Added Pin To Net: NetName=NetJK5_6 Pin=VD5-2
+Added Pin To Net: NetName=NetR1_1 Pin=VT1-1
+Added Pin To Net: NetName=GNDA Pin=VT1-2
+Added Pin To Net: NetName=NetJK1_6 Pin=VT1-3
+Added Pin To Net: NetName=NetR3_1 Pin=VT2-1
+Added Pin To Net: NetName=GNDA Pin=VT2-2
+Added Pin To Net: NetName=NetJK2_6 Pin=VT2-3
+Added Pin To Net: NetName=NetR5_1 Pin=VT3-1
+Added Pin To Net: NetName=GNDA Pin=VT3-2
+Added Pin To Net: NetName=NetJK3_6 Pin=VT3-3
+Added Pin To Net: NetName=NetR7_1 Pin=VT4-1
+Added Pin To Net: NetName=GNDA Pin=VT4-2
+Added Pin To Net: NetName=NetJK4_6 Pin=VT4-3
+Added Pin To Net: NetName=NetR9_1 Pin=VT5-1
+Added Pin To Net: NetName=GNDA Pin=VT5-2
+Added Pin To Net: NetName=NetJK5_6 Pin=VT5-3
+Added Pin To Net: NetName=NetJK4_14 Pin=X1-1
+Added Pin To Net: NetName=NetJK4_14 Pin=X1-1
+Added Pin To Net: NetName=NetJK2_1 Pin=X2-1
+Added Pin To Net: NetName=NetJK2_1 Pin=X2-1
+Added Pin To Net: NetName=Key1 Pin=X3-1
+Added Pin To Net: NetName=Key2 Pin=X3-2
+Added Pin To Net: NetName=Key3 Pin=X3-3
+Added Pin To Net: NetName=Key4 Pin=X3-4
+Added Pin To Net: NetName=Key5 Pin=X3-5
+Added Pin To Net: NetName=+5 Pin=X3-7
+Added Pin To Net: NetName=GNDA Pin=X3-8
+Added Pin To Net: NetName=NetJK4_8 Pin=X4-1
+Added Pin To Net: NetName=NetJK4_8 Pin=X4-1
+Added Pin To Net: NetName=NetJK5_8 Pin=X5-1
+Added Pin To Net: NetName=NetJK5_8 Pin=X5-1
+Added Member To Class: ClassName=Art_Imp Member=Component JK1 TRR-1A-05-S-00R
+Added Member To Class: ClassName=Art_Imp Member=Component JK2 TRR-1A-05-S-00R
+Added Member To Class: ClassName=Art_Imp Member=Component JK3 TRR-1A-05-S-00R
+Added Member To Class: ClassName=Art_Imp Member=Component JK4 TRR-1A-05-S-00R
+Added Member To Class: ClassName=Art_Imp Member=Component JK5 TRR-1A-05-S-00R
+Added Member To Class: ClassName=Art_Imp Member=Component R1 10k ±1% 0603
+Added Member To Class: ClassName=Art_Imp Member=Component R2 10k ±1% 0603
+Added Member To Class: ClassName=Art_Imp Member=Component R3 10k ±1% 0603
+Added Member To Class: ClassName=Art_Imp Member=Component R4 10k ±1% 0603
+Added Member To Class: ClassName=Art_Imp Member=Component R5 10k ±1% 0603
+Added Member To Class: ClassName=Art_Imp Member=Component R6 10k ±1% 0603
+Added Member To Class: ClassName=Art_Imp Member=Component R7 10k ±1% 0603
+Added Member To Class: ClassName=Art_Imp Member=Component R8 10k ±1% 0603
+Added Member To Class: ClassName=Art_Imp Member=Component R9 10k ±1% 0603
+Added Member To Class: ClassName=Art_Imp Member=Component R10 10k ±1% 0603
+Added Member To Class: ClassName=Art_Imp Member=Component R11 130R
+Added Member To Class: ClassName=Art_Imp Member=Component R12 68R
+Added Member To Class: ClassName=Art_Imp Member=Component R13 0R01
+Added Member To Class: ClassName=Art_Imp Member=Component VD1 PESD5V0S1BA
+Added Member To Class: ClassName=Art_Imp Member=Component VD2 PESD5V0S1BA
+Added Member To Class: ClassName=Art_Imp Member=Component VD3 PESD5V0S1BA
+Added Member To Class: ClassName=Art_Imp Member=Component VD4 PESD5V0S1BA
+Added Member To Class: ClassName=Art_Imp Member=Component VD5 PESD5V0S1BA
+Added Member To Class: ClassName=Art_Imp Member=Component VT1 BC850C
+Added Member To Class: ClassName=Art_Imp Member=Component VT2 BC850C
+Added Member To Class: ClassName=Art_Imp Member=Component VT3 BC850C
+Added Member To Class: ClassName=Art_Imp Member=Component VT4 BC850C
+Added Member To Class: ClassName=Art_Imp Member=Component VT5 BC850C
+Added Member To Class: ClassName=Art_Imp Member=Component X1 DJ4.8
+Added Member To Class: ClassName=Art_Imp Member=Component X2 DJ4.8
+Added Member To Class: ClassName=Art_Imp Member=Component X3 PLS-8
+Added Member To Class: ClassName=Art_Imp Member=Component X4 DJ4.8
+Added Member To Class: ClassName=Art_Imp Member=Component X5 DJ4.8

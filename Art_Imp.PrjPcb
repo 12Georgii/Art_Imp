@@ -50,7 +50,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Art_Imp.SchDoc
+DocumentPath=Art_Imp.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -64,9 +64,26 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NAUAGCYU
+DocumentUniqueId=MKEMQQLM
 
 [Document2]
+DocumentPath=Art_Imp.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NAUAGCYU
+
+[Document3]
 DocumentPath=..\..\REO_THE_BOYS\LIB_THE_BOYS\ErkitPackage.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -81,9 +98,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KWFRIKFT
 
-[Document3]
+[Document4]
 DocumentPath=..\..\REO_THE_BOYS\LIB_THE_BOYS\THE_BOYS_REO.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FLLGBHTI
 
-[Document4]
+[Document5]
 DocumentPath=..\..\REO_THE_BOYS\LIB_THE_BOYS\UOMP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document6]
 DocumentPath=..\..\REO_THE_BOYS\LIB_THE_BOYS\UOMP_capacitors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document7]
 DocumentPath=..\..\REO_THE_BOYS\LIB_THE_BOYS\UOMP_connectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -149,9 +166,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JLWCVSDH
 
-[Document7]
+[Document8]
 DocumentPath=..\..\REO_THE_BOYS\LIB_THE_BOYS\UOMP_crystals.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document9]
 DocumentPath=..\..\REO_THE_BOYS\LIB_THE_BOYS\UOMP_diode.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document10]
 DocumentPath=..\..\REO_THE_BOYS\LIB_THE_BOYS\UOMP_EEPROM.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document11]
 DocumentPath=..\..\REO_THE_BOYS\LIB_THE_BOYS\UOMP_fuses.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document12]
 DocumentPath=..\..\REO_THE_BOYS\LIB_THE_BOYS\UOMP_IC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document13]
 DocumentPath=..\..\REO_THE_BOYS\LIB_THE_BOYS\UOMP_inductors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document14]
 DocumentPath=..\..\REO_THE_BOYS\LIB_THE_BOYS\UOMP_mechanical.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document15]
 DocumentPath=..\..\REO_THE_BOYS\LIB_THE_BOYS\UOMP_microcontrollers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document16]
 DocumentPath=..\..\REO_THE_BOYS\LIB_THE_BOYS\UOMP_operational amplifier.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document17]
 DocumentPath=..\..\REO_THE_BOYS\LIB_THE_BOYS\UOMP_optoislators.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document18]
 DocumentPath=..\..\REO_THE_BOYS\LIB_THE_BOYS\UOMP_power.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document19]
 DocumentPath=..\..\REO_THE_BOYS\LIB_THE_BOYS\UOMP_primitives.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document20]
 DocumentPath=..\..\REO_THE_BOYS\LIB_THE_BOYS\UOMP_resistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OQATIJSN
 
-[Document20]
+[Document21]
 DocumentPath=..\..\REO_THE_BOYS\LIB_THE_BOYS\UOMP_resistors_0603.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ETBKKGAP
 
-[Document21]
+[Document22]
 DocumentPath=..\..\REO_THE_BOYS\LIB_THE_BOYS\UOMP_transistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document23]
 DocumentPath=..\..\REO_THE_BOYS\LIB_THE_BOYS\Interface.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,8 +440,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RDAXSUPV
 
-[Document23]
-DocumentPath=..\..\REO_THE_BOYS\LIB_THE_BOYS\Switch.SchLib
+[Document24]
+DocumentPath=..\..\REO_THE_BOYS\LIB_THE_BOYS\Metal_Opera_Relay.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -439,6 +456,91 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TMAEGWVA
+
+[Document25]
+DocumentPath=..\..\REO_THE_BOYS\LIB_THE_BOYS\Metal_Opera_Relay.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EERJWJRH
+
+[Document26]
+DocumentPath=..\..\REO_THE_BOYS\LIB_THE_BOYS\Metal_Opera_Resistors.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WTTCMQIY
+
+[Document27]
+DocumentPath=..\..\REO_THE_BOYS\LIB_THE_BOYS\Metal_Opera_Resistors.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PSORIELP
+
+[Document28]
+DocumentPath=..\..\REO_THE_BOYS\LIB_THE_BOYS\Metal_Opera_Connectors.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UPKCKPNO
+
+[Document29]
+DocumentPath=..\..\REO_THE_BOYS\LIB_THE_BOYS\Metal_Opera_Connectors.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HHUPUZYC
 
 [Configuration1]
 Name=Sources
@@ -1433,8 +1535,8 @@ L16=WWWWNWWNWWWNWWWNW
 L17=WNNNNNNNWNNNWWWWN
 
 [Annotate]
-SortOrder=3
-SortLocation=0
+SortOrder=1
+SortLocation=1
 ReplaceSubparts=0
 MatchParameter1=Comment
 MatchStrictly1=1
