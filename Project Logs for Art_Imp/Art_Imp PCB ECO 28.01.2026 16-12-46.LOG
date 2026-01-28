@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GNDA Pin=R9-1
+Change Component Designator: OldDesignator=X1 NewDesignator=X2
+Change Component Designator: OldDesignator=X2 NewDesignator=X3
+Change Component Designator: OldDesignator=X3 NewDesignator=X4
+Change Component Designator: OldDesignator=X4 NewDesignator=X5
+Change Component Designator: OldDesignator=X5 NewDesignator=X6
+Change Component Designator: OldDesignator=X6 NewDesignator=X7
+Added Component: Designator=X1(DJ4.8)
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=X1-1
+Added Pin To Net: NetName=NetR9_1 Pin=X1-1
+Added Net: Name=NetR9_1
+Added Member To Class: ClassName=Art_Imp Member=Component C2 0.1u 50V 0805 ±10%
+Added Member To Class: ClassName=Art_Imp Member=Component C4 0.1u 50V 0805 ±10%
+Added Member To Class: ClassName=Art_Imp Member=Component JK3 TRR-1A-05-S-00R
+Added Member To Class: ClassName=Art_Imp Member=Component JK4 TRR-1A-05-S-00R
+Added Member To Class: ClassName=Art_Imp Member=Component R5 10k ±1% 0603
+Added Member To Class: ClassName=Art_Imp Member=Component R6 10k ±1% 0603
+Added Member To Class: ClassName=Art_Imp Member=Component R7 10k ±1% 0603
+Added Member To Class: ClassName=Art_Imp Member=Component R8 10k ±1% 0603
+Added Member To Class: ClassName=Art_Imp Member=Component R10 130R
+Added Member To Class: ClassName=Art_Imp Member=Component R12 0R01
+Added Member To Class: ClassName=Art_Imp Member=Component R14 2.4k
+Added Member To Class: ClassName=Art_Imp Member=Component VD3 PESD5V0S1BA
+Added Member To Class: ClassName=Art_Imp Member=Component VT4 BC850C
+Added Member To Class: ClassName=Art_Imp Member=Component X3 DJ4.8
+Added Member To Class: ClassName=Art_Imp Member=Component X5 DJ4.8
+Added Member To Class: ClassName=Art_Imp Member=Component X7 WF-2

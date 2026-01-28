@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=Key1 Pin=X6-1
+Removed Pin From Net: NetName=Key2 Pin=X6-2
+Removed Pin From Net: NetName=Key3 Pin=X6-3
+Removed Pin From Net: NetName=Key4 Pin=X6-4
+Change Component Designator: OldDesignator=X7 NewDesignator=X6
+Added Component: Designator=X7(CON: 4pin wf-4)
+Add component (AddParameter): Name = "Code"; Value = "6313932041"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Вилка WF-4"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Key1 Pin=X7-1
+Added Pin To Net: NetName=Key2 Pin=X7-2
+Added Pin To Net: NetName=Key3 Pin=X7-3
+Added Pin To Net: NetName=Key4 Pin=X7-4
+Added Member To Class: ClassName=Art_Imp Member=Component X1 DJ4.8
+Added Member To Class: ClassName=Art_Imp Member=Component X3 DJ4.8
+Added Member To Class: ClassName=Art_Imp Member=Component X4 DJ4.8
+Added Member To Class: ClassName=Art_Imp Member=Component X7 WF-4

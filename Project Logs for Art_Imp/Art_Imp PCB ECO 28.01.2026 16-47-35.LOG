@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetJK1_6 Pin=VD1-2
+Removed Pin From Net: NetName=NetJK2_6 Pin=VD2-2
+Removed Pin From Net: NetName=NetJK3_6 Pin=VD3-2
+Removed Pin From Net: NetName=NetJK4_6 Pin=VD4-2
+Change Component Footprint: Designator=VD1 Old Footprint=DIODE: SOD 323 MD IPC 782 New Footprint=DIODE: MELF
+Change Component Footprint: Designator=VD2 Old Footprint=DIODE: SOD 323 MD IPC 782 New Footprint=DIODE: MELF
+Change Component Footprint: Designator=VD3 Old Footprint=DIODE: SOD 323 MD IPC 782 New Footprint=DIODE: MELF
+Change Component Footprint: Designator=VD4 Old Footprint=DIODE: SOD 323 MD IPC 782 New Footprint=DIODE: MELF
+Change Component Comment : Designator=VD1 Old Comment=PESD5V0S1BA New Comment=SM4002-W 1A 100V
+Change Component Comment : Designator=VD2 Old Comment=PESD5V0S1BA New Comment=SM4002-W 1A 100V
+Change Component Comment : Designator=VD3 Old Comment=PESD5V0S1BA New Comment=SM4002-W 1A 100V
+Change Component Comment : Designator=VD4 Old Comment=PESD5V0S1BA New Comment=SM4002-W 1A 100V
+Change component parameters: Designator = "VD1" ("VD1"); Footprint = "DIODE: SOD 323 MD IPC 782"; UniqueID = "\ZIDARFJJ" ("\ZIDARFJJ")
+Change component parameters (AddParameter): Name = "Code"; Value = "6341199702"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "Диод SM4002-W, RECTRON"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD2" ("VD2"); Footprint = "DIODE: SOD 323 MD IPC 782"; UniqueID = "\HLYGQDKV" ("\HLYGQDKV")
+Change component parameters (AddParameter): Name = "Code"; Value = "6341199702"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "Диод SM4002-W, RECTRON"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD3" ("VD3"); Footprint = "DIODE: SOD 323 MD IPC 782"; UniqueID = "\NBBFISPR" ("\NBBFISPR")
+Change component parameters (AddParameter): Name = "Code"; Value = "6341199702"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "Диод SM4002-W, RECTRON"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD4" ("VD4"); Footprint = "DIODE: SOD 323 MD IPC 782"; UniqueID = "\XJLHXFWW" ("\XJLHXFWW")
+Change component parameters (AddParameter): Name = "Code"; Value = "6341199702"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "Диод SM4002-W, RECTRON"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJK3_6 Pin=VD1-2
+Added Pin To Net: NetName=NetJK4_6 Pin=VD2-2
+Added Pin To Net: NetName=NetJK1_6 Pin=VD3-2
+Added Pin To Net: NetName=NetJK2_6 Pin=VD4-2

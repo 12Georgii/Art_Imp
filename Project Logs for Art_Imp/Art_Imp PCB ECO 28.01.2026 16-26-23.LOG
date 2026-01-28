@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=X7 Old Footprint=CON: 4pin wf-4 New Footprint=CON: 4pin PLS-4
+Change Component Comment : Designator=X7 Old Comment=WF-4 New Comment=PLS-4
+Added Member To Class: ClassName=Art_Imp Member=Component X6 WF-2
+Added Member To Class: ClassName=Art_Imp Member=Component X7 PLS-4
