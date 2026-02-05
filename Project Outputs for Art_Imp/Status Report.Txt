@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Art_Imp.PcbDoc]
+   Generated File[Art_Imp-Plated.TXT]
+   Generated File[Art_Imp-NonPlated.TXT]
+   Generated File[Art_Imp.LDP]
+   Generated File[Art_Imp.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:34:31 On 05.02.2026
