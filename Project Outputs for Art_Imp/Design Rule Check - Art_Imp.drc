@@ -1,24 +1,24 @@
 Protel Design System Design Rule Check
-PCB File : E:\ALT_PROJ\Injection_measurment\Art_Imp\Art_Imp.PcbDoc
-Date     : 05.02.2026
-Time     : 12:17:19
+PCB File : E:\Electronics\PROJECKTS\Art_Imp\Art_Imp.PcbDoc
+Date     : 18.03.2026
+Time     : 13:57:32
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) (InNet('No Net')),(InNet('No Net'))
-Rule Violations :0
-
-Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
-Rule Violations :0
-
-Processing Rule : Clearance Constraint (Gap=0.1mm) (InNet('No Net')),(InNet('No Net'))
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=0.125mm) (InNet('No Net')),(InNet('No Net'))
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=0.3mm) (Disabled)(InNet('No Net')),(InNet('No Net'))
+Processing Rule : Clearance Constraint (Gap=0.1mm) (InNet('No Net')),(InNet('No Net'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=0.35mm) (Disabled)(InNet('No Net')),(InNet('No Net'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.3mm) (Disabled)(InNet('No Net')),(InNet('No Net'))
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -30,9 +30,6 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.15mm) (Max=10mm) (Preferred=0.2mm) (All)
-Rule Violations :0
-
 Processing Rule : Width Constraint (Min=0.1mm) (Max=10mm) (Preferred=0.125mm) (All)
 Rule Violations :0
 
@@ -42,22 +39,25 @@ Rule Violations :0
 Processing Rule : Width Constraint (Min=0.3mm) (Max=10mm) (Preferred=0.4mm) (Disabled)(All)
 Rule Violations :0
 
+Processing Rule : Width Constraint (Min=0.15mm) (Max=10mm) (Preferred=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.2mm) (Conductor Width=0.2mm) (Air Gap=0.2mm) (Entries=4) (All)
+Rule Violations :0
+
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.15mm) (Conductor Width=0.15mm) (Air Gap=0.15mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.2mm) (Conductor Width=0.3mm) (Air Gap=0.3mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.2mm) (Conductor Width=0.35mm) (Air Gap=0.35mm) (Entries=4) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.15mm) (Conductor Width=0.2mm) (Air Gap=0.2mm) (Entries=4) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.2mm) (Conductor Width=0.2mm) (Air Gap=0.2mm) (Entries=4) (All)
-Rule Violations :0
-
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.2mm) (Conductor Width=0.2mm) (Air Gap=0.2mm) (Entries=4) (All)
-Rule Violations :0
-
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.2mm) (Conductor Width=0.35mm) (Air Gap=0.35mm) (Entries=4) (All)
-Rule Violations :0
-
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.2mm) (Conductor Width=0.3mm) (Air Gap=0.3mm) (Entries=4) (All)
 Rule Violations :0
 
 Processing Rule : Minimum Annular Ring (Minimum=0.1mm) (IsVia)
@@ -70,19 +70,39 @@ Processing Rule : Minimum Annular Ring (Minimum=0.15mm) (IsVia)
 Rule Violations :0
 
 Processing Rule : Minimum Annular Ring (Minimum=0.2mm) (IsPAD)
-Rule Violations :0
+   Violation between Minimum Annular Ring: (0.15mm < 0.2mm) Pad Free-10(26.921mm,28.427mm) on Multi-Layer (Annular Ring=0.15mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.15mm < 0.2mm) Pad Free-11(37mm,31mm) on Multi-Layer (Annular Ring=0.15mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.15mm < 0.2mm) Pad Free-12(36.317mm,44.706mm) on Multi-Layer (Annular Ring=0.15mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.15mm < 0.2mm) Pad Free-14(36mm,2mm) on Multi-Layer (Annular Ring=0.15mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.15mm < 0.2mm) Pad Free-15(37mm,17mm) on Multi-Layer (Annular Ring=0.15mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.15mm < 0.2mm) Pad Free-16(22.5mm,40.25mm) on Multi-Layer (Annular Ring=0.15mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.15mm < 0.2mm) Pad Free-17(22.473mm,37.356mm) on Multi-Layer (Annular Ring=0.15mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.15mm < 0.2mm) Pad Free-7(6mm,40mm) on Multi-Layer (Annular Ring=0.15mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.15mm < 0.2mm) Pad Free-8(15.507mm,24.075mm) on Multi-Layer (Annular Ring=0.15mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.15mm < 0.2mm) Pad Free-9(21.464mm,24.182mm) on Multi-Layer (Annular Ring=0.15mm) On (Top Layer)
+Rule Violations :10
 
 Processing Rule : Acute Angle Constraint (Minimum=35.000) (All)
-Rule Violations :0
-
-Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=5.9mm) (IsVia)
 Rule Violations :0
 
 Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=5.9mm) (IsVia)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=0.6mm) (Max=5.9mm) (IsPad)
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=5.9mm) (IsVia)
 Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.6mm) (Max=5.9mm) (IsPad)
+   Violation between Hole Size Constraint: (0.3mm < 0.6mm) Pad Free-10(26.921mm,28.427mm) on Multi-Layer Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.6mm) Pad Free-11(37mm,31mm) on Multi-Layer Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.6mm) Pad Free-12(36.317mm,44.706mm) on Multi-Layer Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.6mm) Pad Free-14(36mm,2mm) on Multi-Layer Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.6mm) Pad Free-15(37mm,17mm) on Multi-Layer Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.6mm) Pad Free-16(22.5mm,40.25mm) on Multi-Layer Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.6mm) Pad Free-17(22.473mm,37.356mm) on Multi-Layer Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.6mm) Pad Free-7(6mm,40mm) on Multi-Layer Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.6mm) Pad Free-8(15.507mm,24.075mm) on Multi-Layer Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.6mm) Pad Free-9(21.464mm,24.182mm) on Multi-Layer Actual Hole Size = 0.3mm
+Rule Violations :10
 
 Processing Rule : Hole To Hole Clearance (Gap=0.25mm) (All),(All)
 Rule Violations :0
@@ -112,6 +132,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 0
+Violations Detected : 20
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
